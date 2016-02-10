@@ -1,0 +1,47 @@
+main {
+  position: relative;
+  background-color: #ddd;
+  padding: 15px;
+}
+section {
+  padding: 20px;
+  margin: 15px;
+  background-color: #fff;
+}
+div {
+  display: inline-block;
+  text-align:center;
+  padding: 5px;
+  color: #fff;
+  width:75px;
+}
+footer {
+  display: flex;
+  justify-content: flex-end;
+  padding: 10px 20px;
+}
+li{
+  display: inline-block;
+  color: white
+}
+img{
+  width:66%;
+}
+
+.red{
+  background-color: #c00;
+}
+.blue{
+  background-color: #38c;
+}
+.gray{
+  background-color: #444;
+}
+
+.spacer{
+  margin-top: 30px;
+}
+.container{
+  width:100%;
+  padding: 30px 0px;
+}
