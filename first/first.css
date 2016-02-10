@@ -1,0 +1,47 @@
+body > * {
+  margin: 15px;
+}
+header {
+  display: flex;
+  justify-content: space-between;
+  height: 100px;
+}
+main{
+  height: 300px;
+}
+footer {
+  height: 100px;
+}
+div {
+  height: 100%;
+}
+
+.red {
+  background-color: #b00;
+}
+.blue {
+  background-color: #27b;
+}
+.gray {
+  background-color: #333;
+}
+
+.w4 {
+  width: 4%;
+}
+.w26 {
+  width: 26%;
+}
+.w30 {
+  width: 30%;
+}
+.w33 {
+  width: 33%;
+}
+.w66 {
+  width: 66%;
+}
+
+.float {
+  float:left;
+}
